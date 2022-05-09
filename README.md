@@ -22,6 +22,8 @@ Degree: Public Policy and Management (International Development Concentration)
 
 ## Final Projects
 
+[Final Report for Systems Capstone Project](Final Report_Reaching_Underserved_Communities_&_Populations_in_Pennsylvania.pdf)
+
 [Advanced GIS Portfolio](https://serganttinkers.github.io/AdvancedGIS/)
 Creation of a portfolio of GIS-related work was a major component of the _Advanced GIS_ course. This course built upon the previous GIS course and introduced new spatial and statistical tools both in the Esri wheelhouse and beyond. This sub-portfolio contains several assignments, and links to two final projects which were presented via StoryMap.
 
