@@ -1,7 +1,7 @@
-#Clayton W. Caldwell: Professional Work Portfolio 
+# Clayton W. Caldwell: Professional Work Portfolio 
 Degree: Public Policy and Management (International Development Concentration)
 
-##List of Masters Coursework
+## List of Masters Coursework
 -	Gender, Politics, and Policy: Analysis of domestic and global policies related to gender and equality.                               
 -	Poverty, Inequality, and Social Policies: Analysis of inequality worldwide and relevant policy responses.
 -	Project Management: design of comprehensive management strategies. Full project plan deliverable. 
@@ -20,7 +20,7 @@ Degree: Public Policy and Management (International Development Concentration)
 -	Privacy in the Digital Age: Privacy policy analysis focusing on implications of data collection and trading.
 -	Intro to Database Management: Core data sorting and management techniques used in Microsoft Access.
 
-##Final Projects
+## Final Projects
 
 [Advanced GIS Portfolio](https://serganttinkers.github.io/AdvancedGIS/)
 Creation of a portfolio of GIS-related work was a major component of the _Advanced GIS_ course. This course built upon the previous GIS course and introduced new spatial and statistical tools both in the Esri wheelhouse and beyond. This sub-portfolio contains several assignments, and links to two final projects which were presented via StoryMap.
