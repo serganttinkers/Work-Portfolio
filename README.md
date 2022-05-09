@@ -20,9 +20,10 @@ Degree: Public Policy and Management (International Development Concentration)
 -	Privacy in the Digital Age: Privacy policy analysis focusing on implications of data collection and trading.
 -	Intro to Database Management: Core data sorting and management techniques used in Microsoft Access.
 
-## Final Projects
+## Final Projects (Not Comprehensive)
 
-[Final Report for Systems Capstone Project](Final Report_Reaching_Underserved_Communities_&_Populations_in_Pennsylvania.pdf)
+[Final Report for Systems Capstone Project](Final_Report_Reaching_Underserved_Communities_&_Populations_in_Pennsylvania.pdf)
+For my degree program, students are required to complete a capstone project with a team of other students in cooperation with an assigned client. This project represents a semester-long report on underserved community engagement from the Pennsylvanian Department of Transportation. It explains in detail a research strategy designed by the student team and provides a series of recommendations for improving underserved community engagement. 
 
 [Advanced GIS Portfolio](https://serganttinkers.github.io/AdvancedGIS/)
 Creation of a portfolio of GIS-related work was a major component of the _Advanced GIS_ course. This course built upon the previous GIS course and introduced new spatial and statistical tools both in the Esri wheelhouse and beyond. This sub-portfolio contains several assignments, and links to two final projects which were presented via StoryMap.
