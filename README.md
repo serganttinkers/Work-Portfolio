@@ -1,7 +1,7 @@
 # Clayton W. Caldwell: Professional Work Portfolio 
 Degree: Public Policy and Management (International Development Concentration)
 
-## List of Masters Coursework
+## List of Master's Coursework
 -	Gender, Politics, and Policy: Analysis of domestic and global policies related to gender and equality.                               
 -	Poverty, Inequality, and Social Policies: Analysis of inequality worldwide and relevant policy responses.
 -	Project Management: design of comprehensive management strategies. Full project plan deliverable. 
